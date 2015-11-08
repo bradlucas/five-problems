@@ -4,12 +4,15 @@ Clojure solutions to "Five programming problems every Software Engineer should b
 
 https://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour
 
-Of the five the first four are complete. The fifth is still a work in progress.
 
+## Solutions
 
-## Usage
+* https://github.com/bradlucas/five-problems/blob/master/src/five_problems/problem_1.clj
+* https://github.com/bradlucas/five-problems/blob/master/src/five_problems/problem_2.clj
+* https://github.com/bradlucas/five-problems/blob/master/src/five_problems/problem_3.clj
+* https://github.com/bradlucas/five-problems/blob/master/src/five_problems/problem_4.clj
+* https://github.com/bradlucas/five-problems/blob/master/src/five_problems/problem_5.clj
 
-See the source files.
 
 ## License
 
