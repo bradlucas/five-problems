@@ -12,6 +12,10 @@ http://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-eng
 * https://github.com/bradlucas/five-problems/blob/master/src/five_problems/problem_4.clj
 * https://github.com/bradlucas/five-problems/blob/master/src/five_problems/problem_5.clj
 
+##  Usage
+
+- lein run
+
 
 ## License
 
